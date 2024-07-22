@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/hlocal/multiplicador/multiplicador.srcs/sources_1/new/mutiplicador.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mult8b'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/hlocal/multiplicador/multiplicador.srcs/sim_1/new/tb_mult.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_mult8'

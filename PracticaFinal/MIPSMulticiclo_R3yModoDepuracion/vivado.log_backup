@@ -1,0 +1,19 @@
+#-----------------------------------------------------------
+# Vivado v2012.1.1 (64-bit)
+# Build 179419 by xbuild on Thu Apr 26 11:43:29 MDT 2012
+# Start of session at: Sun Dec 20 10:06:23 2020
+# Process ID: 12564
+# Log file: C:\hlocal\TOC\2020\vhdl\PR5\MIPSMulticiclo_R3yModoDepuracion\vivado.log
+# Journal file: C:\hlocal\TOC\2020\vhdl\PR5\MIPSMulticiclo_R3yModoDepuracion\vivado.jou
+#-----------------------------------------------------------
+INFO: [Vivado-1] No Vivado early access license found. Contact your local Xilinx Field Application Engineer for more license information.
+INFO: [Device-36] Loading parts and site information from C:/Xilinx/14.1/14.1/ISE_DS/PlanAhead/data/parts/arch.xml
+Parsing RTL primitives file [C:/Xilinx/14.1/14.1/ISE_DS/PlanAhead/data/parts/xilinx/rtl/prims/rtl_prims.xml]
+Finished parsing RTL primitives file [C:/Xilinx/14.1/14.1/ISE_DS/PlanAhead/data/parts/xilinx/rtl/prims/rtl_prims.xml]
+
+start_gui
+INFO: [Vivado-1] No Vivado early access license found. Contact your local Xilinx Field Application Engineer for more license information.
+open_project {C:\hlocal\TOC\2020\vhdl\PR5\MIPSMulticiclo_R3yModoDepuracion\MIPSMulticiclo_R3yModoDepuracion.xpr}
+WARNING: [Common-119] Forward Compatibility: results may vary with future version of Project XML in file: C:\hlocal\TOC\2020\vhdl\PR5\MIPSMulticiclo_R3yModoDepuracion\MIPSMulticiclo_R3yModoDepuracion.xpr
+WARNING: [Project-80] Project 'MIPSMulticiclo_R3yModoDepuracion.xpr' was created with a future version of PlanAhead and may or may not perform reliably with this version of PlanAhead. It has been opened in read-only mode for the protection of unrecognized data. Use 'File | Save Project As...' if you wish to alter a copy of the project.
+ERROR: [Common-70] Application Exception: createSynthRun: NULL part

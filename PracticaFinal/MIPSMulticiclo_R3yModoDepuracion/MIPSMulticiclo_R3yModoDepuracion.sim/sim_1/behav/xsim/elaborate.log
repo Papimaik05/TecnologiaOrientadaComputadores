@@ -1,0 +1,27 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto 27487a3b62c247ce8013a612ecaeb022 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot TestBenchMIPSMulticiclo_behav xil_defaultlib.TestBenchMIPSMulticiclo xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling module xil_defaultlib.glbl
+Compiling architecture unidaddecontrolarch of entity xil_defaultlib.unidadDeControl [unidaddecontrol_default]
+Compiling architecture registroarch of entity xil_defaultlib.registro [registro_default]
+Compiling architecture multiplexor2a1arch of entity xil_defaultlib.multiplexor2a1 [multiplexor2a1_default]
+Compiling architecture behavioral of entity xil_defaultlib.BlockRam [blockram_default]
+Compiling architecture memoriaarch of entity xil_defaultlib.memoria [memoria_default]
+Compiling architecture multiplexor2a1arch of entity xil_defaultlib.multiplexor2a1 [\multiplexor2a1(bits_entradas=5)...]
+Compiling architecture bancoderegistrosarch of entity xil_defaultlib.bancoDeRegistros [bancoderegistros_default]
+Compiling architecture multiplexor4a1arch of entity xil_defaultlib.multiplexor4a1 [multiplexor4a1_default]
+Compiling architecture aluarch of entity xil_defaultlib.ALU [alu_default]
+Compiling architecture rutadedatosarch of entity xil_defaultlib.rutaDeDatos [rutadedatos_default]
+Compiling architecture mipsmulticicloarch of entity xil_defaultlib.MIPS_multiciclo [mips_multiciclo_default]
+Compiling architecture behavior of entity xil_defaultlib.testbenchmipsmulticiclo
+Built simulation snapshot TestBenchMIPSMulticiclo_behav

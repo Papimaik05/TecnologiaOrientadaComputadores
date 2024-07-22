@@ -1,0 +1,16 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../MIPSMulticiclo_R3yModoDepuracion.srcs/sources_1/imports/ficheros/ALU.vhd" \
+"../../../../MIPSMulticiclo_R3yModoDepuracion.srcs/sources_1/imports/ficheros/BlockRam.vhd" \
+"../../../../MIPSMulticiclo_R3yModoDepuracion.srcs/sources_1/imports/ficheros/MIPs_multiciclo.vhd" \
+"../../../../MIPSMulticiclo_R3yModoDepuracion.srcs/sources_1/imports/ficheros/bancoDeRegistros.vhd" \
+"../../../../MIPSMulticiclo_R3yModoDepuracion.srcs/sources_1/imports/ficheros/memoria.vhd" \
+"../../../../MIPSMulticiclo_R3yModoDepuracion.srcs/sources_1/imports/ficheros/multiplexor2a1.vhd" \
+"../../../../MIPSMulticiclo_R3yModoDepuracion.srcs/sources_1/imports/ficheros/multiplexor4a1.vhd" \
+"../../../../MIPSMulticiclo_R3yModoDepuracion.srcs/sources_1/imports/ficheros/registro.vhd" \
+"../../../../MIPSMulticiclo_R3yModoDepuracion.srcs/sources_1/imports/ficheros/rutaDeDatos.vhd" \
+"../../../../MIPSMulticiclo_R3yModoDepuracion.srcs/sources_1/imports/ficheros/unidadDeControl.vhd" \
+"../../../../ficheros/TestBenchMIPSMulticiclo.vhd" \
+
+# Do not sort compile order
+nosort

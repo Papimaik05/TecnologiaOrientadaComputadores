@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1639473803">
+  <File Type="BITSTR-BMM" Name="sintesis_MIPSMulticiclo_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="sintesis_MIPSMulticiclo_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="sintesis_MIPSMulticiclo_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="sintesis_MIPSMulticiclo_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="sintesis_MIPSMulticiclo.tcl"/>
+  <File Type="OPT-TIMING" Name="sintesis_MIPSMulticiclo_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="sintesis_MIPSMulticiclo_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="sintesis_MIPSMulticiclo_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="sintesis_MIPSMulticiclo_reports.tcl"/>
+  <File Type="OPT-DRC" Name="sintesis_MIPSMulticiclo_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="sintesis_MIPSMulticiclo.hwdef"/>
+  <File Type="PWROPT-DCP" Name="sintesis_MIPSMulticiclo_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="sintesis_MIPSMulticiclo_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="sintesis_MIPSMulticiclo_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="sintesis_MIPSMulticiclo_placed.dcp"/>
+  <File Type="PLACE-IO" Name="sintesis_MIPSMulticiclo_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="sintesis_MIPSMulticiclo_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="sintesis_MIPSMulticiclo_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="sintesis_MIPSMulticiclo_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="sintesis_MIPSMulticiclo_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="sintesis_MIPSMulticiclo_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="sintesis_MIPSMulticiclo_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="sintesis_MIPSMulticiclo_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="sintesis_MIPSMulticiclo_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="sintesis_MIPSMulticiclo.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="sintesis_MIPSMulticiclo_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="sintesis_MIPSMulticiclo_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="sintesis_MIPSMulticiclo_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="sintesis_MIPSMulticiclo.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="sintesis_MIPSMulticiclo_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="sintesis_MIPSMulticiclo_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="sintesis_MIPSMulticiclo_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="sintesis_MIPSMulticiclo_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="sintesis_MIPSMulticiclo_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="sintesis_MIPSMulticiclo_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="sintesis_MIPSMulticiclo_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="sintesis_MIPSMulticiclo.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="sintesis_MIPSMulticiclo_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="sintesis_MIPSMulticiclo_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="sintesis_MIPSMulticiclo_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="sintesis_MIPSMulticiclo_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="sintesis_MIPSMulticiclo_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="sintesis_MIPSMulticiclo_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="sintesis_MIPSMulticiclo_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="sintesis_MIPSMulticiclo_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="sintesis_MIPSMulticiclo_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="sintesis_MIPSMulticiclo_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="sintesis_MIPSMulticiclo_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="sintesis_MIPSMulticiclo_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="sintesis_MIPSMulticiclo_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="sintesis_MIPSMulticiclo_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="sintesis_MIPSMulticiclo_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="sintesis_MIPSMulticiclo_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="sintesis_MIPSMulticiclo_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="sintesis_MIPSMulticiclo_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="sintesis_MIPSMulticiclo_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="sintesis_MIPSMulticiclo_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="sintesis_MIPSMulticiclo_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="sintesis_MIPSMulticiclo.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="sintesis_MIPSMulticiclo_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="sintesis_MIPSMulticiclo.rbt"/>
+  <File Type="BITSTR-NKY" Name="sintesis_MIPSMulticiclo.nky"/>
+  <File Type="PDI-FILE" Name="sintesis_MIPSMulticiclo.pdi"/>
+  <File Type="RCFI_FILE" Name="sintesis_MIPSMulticiclo.rcfi"/>
+  <File Type="CFI_FILE" Name="sintesis_MIPSMulticiclo.cfi"/>
+  <File Type="RNPI_FILE" Name="sintesis_MIPSMulticiclo.rnpi"/>
+  <File Type="NPI_FILE" Name="sintesis_MIPSMulticiclo.npi"/>
+  <File Type="RBD_FILE" Name="sintesis_MIPSMulticiclo.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="sintesis_MIPSMulticiclo.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="sintesis_MIPSMulticiclo.sysdef"/>
+  <File Type="BG-BGN" Name="sintesis_MIPSMulticiclo.bgn"/>
+  <File Type="BG-DRC" Name="sintesis_MIPSMulticiclo.drc"/>
+  <File Type="RDI-RDI" Name="sintesis_MIPSMulticiclo.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/imports/ficheros/ALU.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/ficheros/ALU.vhd"/>
+        <Attr Name="ImportTime" Val="1543502254"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/ficheros/BlockRam.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/ficheros/BlockRam.vhd"/>
+        <Attr Name="ImportTime" Val="1575029526"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/ficheros/MIPs_multiciclo.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/ficheros/MIPs_multiciclo.vhd"/>
+        <Attr Name="ImportTime" Val="1608454710"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/ficheros/bancoDeRegistros.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/ficheros/bancoDeRegistros.vhd"/>
+        <Attr Name="ImportTime" Val="1575029570"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/ficheros/conv_7seg.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/ficheros/conv_7seg.vhd"/>
+        <Attr Name="ImportTime" Val="1569517004"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/ficheros/debouncer.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/ficheros/debouncer.vhd"/>
+        <Attr Name="ImportTime" Val="1575029130"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/ficheros/displays.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/ficheros/displays.vhd"/>
+        <Attr Name="ImportTime" Val="1573601710"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/ficheros/memoria.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/ficheros/memoria.vhd"/>
+        <Attr Name="ImportTime" Val="1608379600"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/ficheros/multiplexor2a1.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/ficheros/multiplexor2a1.vhd"/>
+        <Attr Name="ImportTime" Val="1575029412"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/ficheros/multiplexor4a1.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/ficheros/multiplexor4a1.vhd"/>
+        <Attr Name="ImportTime" Val="1543240770"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/ficheros/registro.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/ficheros/registro.vhd"/>
+        <Attr Name="ImportTime" Val="1575029552"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/ficheros/rutaDeDatos.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/ficheros/rutaDeDatos.vhd"/>
+        <Attr Name="ImportTime" Val="1575029382"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/ficheros/unidadDeControl.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/ficheros/unidadDeControl.vhd"/>
+        <Attr Name="ImportTime" Val="1575552918"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/ficheros/sintesis_MIPSMulticiclo.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/ficheros/sintesis_MIPSMulticiclo.vhd"/>
+        <Attr Name="ImportTime" Val="1608454727"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="sintesis_MIPSMulticiclo"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/ficheros/Basys3_Master.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+  <BlockFileSet Type="BlockSrcs" Name="DCM_100MHz_10MHz"/>
+</GenRun>

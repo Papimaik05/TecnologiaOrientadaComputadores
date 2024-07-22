@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="synth_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1633370245">
+  <File Type="PA-TCL" Name="sintesis_cerrojo.tcl"/>
+  <File Type="REPORTS-TCL" Name="sintesis_cerrojo_reports.tcl"/>
+  <File Type="RDS-RDS" Name="sintesis_cerrojo.vds"/>
+  <File Type="RDS-UTIL" Name="sintesis_cerrojo_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="sintesis_cerrojo_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="sintesis_cerrojo.dcp"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/cerrojo.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/comparador.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/practica2/conv_7seg.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Users/migue/OneDrive/Escritorio/toc/practica2/conv_7seg.vhd"/>
+        <Attr Name="ImportTime" Val="1605548536"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/practica2/debouncer.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Users/migue/OneDrive/Escritorio/toc/practica2/debouncer.vhd"/>
+        <Attr Name="ImportTime" Val="1605548538"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/registro.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/practica2/sintesis_cerrojo.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Users/migue/OneDrive/Escritorio/toc/practica2/sintesis_cerrojo.vhd"/>
+        <Attr Name="ImportTime" Val="1632647132"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="sintesis_cerrojo"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/practica2/Basys3_Master.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Users/migue/OneDrive/Escritorio/toc/practica2/Basys3_Master.xdc"/>
+        <Attr Name="ImportTime" Val="1632647130"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2020"/>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>

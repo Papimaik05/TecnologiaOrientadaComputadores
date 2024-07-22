@@ -1,0 +1,18 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/hlocal/TOC/2020/vhdl/PR5/MIPSMulticiclo_R3yModoDepuracion/MIPSMulticiclo_R3yModoDepuracion.srcs/sources_1/imports/ficheros/ALU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ALU'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/hlocal/TOC/2020/vhdl/PR5/MIPSMulticiclo_R3yModoDepuracion/MIPSMulticiclo_R3yModoDepuracion.srcs/sources_1/imports/ficheros/BlockRam.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'BlockRam'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/hlocal/TOC/2020/vhdl/PR5/MIPSMulticiclo_R3yModoDepuracion/MIPSMulticiclo_R3yModoDepuracion.srcs/sources_1/imports/ficheros/bancoDeRegistros.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bancoDeRegistros'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/hlocal/TOC/2020/vhdl/PR5/MIPSMulticiclo_R3yModoDepuracion/MIPSMulticiclo_R3yModoDepuracion.srcs/sources_1/imports/ficheros/memoria.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'memoria'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/hlocal/TOC/2020/vhdl/PR5/MIPSMulticiclo_R3yModoDepuracion/MIPSMulticiclo_R3yModoDepuracion.srcs/sources_1/imports/ficheros/multiplexor2a1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'multiplexor2a1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/hlocal/TOC/2020/vhdl/PR5/MIPSMulticiclo_R3yModoDepuracion/MIPSMulticiclo_R3yModoDepuracion.srcs/sources_1/imports/ficheros/multiplexor4a1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'multiplexor4a1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/hlocal/TOC/2020/vhdl/PR5/MIPSMulticiclo_R3yModoDepuracion/MIPSMulticiclo_R3yModoDepuracion.srcs/sources_1/imports/ficheros/registro.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'registro'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/hlocal/TOC/2020/vhdl/PR5/MIPSMulticiclo_R3yModoDepuracion/MIPSMulticiclo_R3yModoDepuracion.srcs/sources_1/imports/ficheros/rutaDeDatos.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'rutaDeDatos'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/hlocal/TOC/2020/vhdl/PR5/MIPSMulticiclo_R3yModoDepuracion/MIPSMulticiclo_R3yModoDepuracion.srcs/sources_1/imports/ficheros/unidadDeControl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'unidadDeControl'

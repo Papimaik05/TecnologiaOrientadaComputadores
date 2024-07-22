@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Sep 27 17:28:21 2021
+# Process ID: 9784
+# Current directory: C:/hlocal/project_1b/project_1b.runs/impl_1
+# Command line: vivado.exe -log registro.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source registro.tcl -notrace
+# Log file: C:/hlocal/project_1b/project_1b.runs/impl_1/registro.vdi
+# Journal file: C:/hlocal/project_1b/project_1b.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source registro.tcl -notrace

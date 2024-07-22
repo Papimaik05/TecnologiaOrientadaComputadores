@@ -1,0 +1,4 @@
+Running: xsim.dir/simulacion_cerrojo_behav/xsimk.exe -simmode gui -wdb simulacion_cerrojo_behav.wdb -simrunnum 0 -socket 56602
+Design successfully loaded
+Design Loading Memory Usage: 6012 KB (Peak: 6012 KB)
+Design Loading CPU Usage: 15 ms
